@@ -1,6 +1,6 @@
 # Hi there 👋
 
-✨ My name is Veysel, I'm 24 y.o. I'm interested in mobile development and I like cats 😻 
+✨ My name is Veysel, I'm 24 y.o. I'm interested in mobile development.
 
 Connect with me here 👇
 ---
