@@ -8,7 +8,7 @@ Connect with me here 👇
 [![Twitter Badge](https://img.shields.io/badge/-vakbalik-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/vakbalik/)](https://twitter.com/vakbalik/)
 [![Linkedin Badge](https://img.shields.io/badge/-veyselakbalik-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veyselakbalik/)](https://www.linkedin.com/in/veyselakbalik/)
 [![Gmail Badge](https://img.shields.io/badge/-veyselakbalik@ogr.iu.edu.tr-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:veyselakbalik@ogr.iu.edu.tr)](mailto:veyselakbalik@ogr.iu.edu.tr)
-[![Instagram Badge](https://img.shields.io/badge/-veyselakbalikk-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/veyselakbalikk/)](https://instagram.com/veyselakbalikk)
+
 
 
 
