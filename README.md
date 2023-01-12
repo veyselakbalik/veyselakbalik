@@ -40,13 +40,4 @@ Connect with me here 👇
 [![Gmail Badge](https://img.shields.io/badge/-veyselakbalik@ogr.iu.edu.tr-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:veyselakbalik@ogr.iu.edu.tr)](mailto:veyselakbalik@ogr.iu.edu.tr)
 
 
-
-
-
-
-## ⚡ GitHub Stats
-
-[![veyselakbalik's github stats](https://github-readme-stats.vercel.app/api?username=veyselakbalik&theme=dark&show_icons=true)](https://github.com/veyselakbalik)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veyselakbalik&layout=compact&theme=dark)](https://github.com/veyselakbalik/github-readme-stats)]
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=veyselakbalik.veyselakbalik)
