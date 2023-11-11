@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi+There!;My+name+is+Veysel+Akbalık.;Nice+to+meet+you.)](https://git.io/typing-svg)
 
-✨ Hi, my name is Veysel, I'm 25 y.o. 
+✨ Hi, my name is Veysel, I'm 26 y.o. 
 
 ✨ I'm interested in mobile app development. 
 
@@ -39,5 +39,8 @@ Connect with me here 👇
 [![Linkedin Badge](https://img.shields.io/badge/-veyselakbalik-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/veyselakbalik/)](https://www.linkedin.com/in/veyselakbalik/)
 [![Gmail Badge](https://img.shields.io/badge/-veyselakbalik@ogr.iu.edu.tr-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:veyselakbalik@ogr.iu.edu.tr)](mailto:veyselakbalik@ogr.iu.edu.tr)
 
+## ⚡ GitHub Stats
+
+[![veyselakbalik's github stats](https://github-readme-stats.vercel.app/api?username=veyselakbalik&theme=dark&show_icons=true)](https://github.com/veyselakbalik)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=veyselakbalik.veyselakbalik)
